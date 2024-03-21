@@ -34,7 +34,7 @@ def send_request(pin):
 
 
 threads = []
-for pin in range(0, 10001):
+for pin in range(0, 10**16):
     thread = threading.Thread(target=send_request, args=(pin,))
     threads.append(thread)
     thread.start()
