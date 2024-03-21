@@ -33,7 +33,6 @@ AES (CBC mode) длина блока 256 бит.
 ### 7 Куда злоумышленник отсылает собранные данные? Каким образом он аутентифицируется на endpoint?
 Злоумышленник отправляет данные себе в Телеграмм, авторизуется при помощи запросов к `api.telegram.org`. Токен `7029575943:AAFNYmmW_QqqMcaHZ-DFRn3M05DptExeAGE`
 
-![win_4](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/6d9aa3b1-59cb-4490-9e21-cfae9f5304e6)
 ![Screenshot_2024-03-21_14_38_12(1)](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/9ad09c4f-820c-46c6-8fde-03f7a6853446)
 ![Screenshot_2024-03-21_14_38_49](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/a13225eb-1e97-4786-a05d-04c65329b5f1)
 ![Screenshot_2024-03-21_14_39_38](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/96d0c06e-8127-40f6-ae2e-734553144f5d)
