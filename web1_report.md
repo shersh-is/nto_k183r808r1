@@ -8,4 +8,8 @@
 
 ![image](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/ef6d6fce-59c8-41f8-9ec6-db567ee0aca5)
 
-2. 
+2. Видно, что в параметр file_type подставляется имя файла. Пробуем проэксплуатировать LFI, вставляя путь из подсказки `../../../../../etc/secret`.
+
+3. Скачался файл `secret`. Получаем флаг.
+
+![Screenshot_2024-03-21_16_25_27](https://github.com/shersh-is/nto_k183r808r1/assets/81306107/b7fcb4ae-3826-44af-a1b0-8c56e5c8836a)
