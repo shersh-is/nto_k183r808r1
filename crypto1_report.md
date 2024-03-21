@@ -33,8 +33,6 @@ def send_request(pin):
         exit()
 
 
-
-
 threads = []
 for pin in range(0, 10001):
     thread = threading.Thread(target=send_request, args=(pin,))
